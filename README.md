@@ -1,2 +1,2 @@
-# Stochastic-differential-Equations
-Solving differential equations numerically using matlab
+# Stochastic-Process
+Contains various stochstic process' and their matlab implementation wiht visualization.
